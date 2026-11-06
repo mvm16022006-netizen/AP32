@@ -117,7 +117,7 @@ cd ..
 ls -R
 ```
 
-![Comprobación final](comprobacion.png)
+![Comprobación final](entornosAP32.jpg)
 
 Resultado:
 
