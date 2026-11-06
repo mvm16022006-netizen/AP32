@@ -117,6 +117,8 @@ cd ..
 ls -R
 ```
 
+![Comprobación final](comprobacion.png)
+
 Resultado:
 
 ```
